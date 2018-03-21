@@ -26,6 +26,7 @@ requirements:
     - numpydoc
     - sphinx-automodapi
     - sphinx-gallery
+    - graphviz
   run:
     - python
     - sphinx >=1.4
@@ -33,6 +34,7 @@ requirements:
     - numpydoc
     - sphinx-automodapi
     - sphinx-gallery
+    - graphviz
 
 test:
   imports:
